@@ -40,9 +40,8 @@ You can contribute to making this project better. You can fix bugs, add features
 ## Contact:
 
 - If you have any questions, feedback, or issues, please contact us.
-
   ##
-This project is distributed under the MIT License. For more information, see the LICENSE file.[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+This project is distributed under the MIT License. For more information, see the LICENSE file.[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/EymenTakak/Reverse-Shell-Generator/blob/main/LICENSE)
 
 
   
